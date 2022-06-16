@@ -1,5 +1,6 @@
 # Scientific-Calculator
 A simple scientific calculator using Java 
-- This repository only contains the code.
-- run using any IDE that supports Java.
+- Download "ScientificCalculator.jar"
+- Run the program
+- Input any equation you want to solve
 
